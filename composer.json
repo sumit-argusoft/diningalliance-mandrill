@@ -5,6 +5,7 @@
     "keywords": ["yii2", "extension", "mandrill", "mailer", "email"],
     "license": "GPL-3.0",
     "minimum-stability": "stable",
+    "version":"1.0.0",
     "authors": [
         {
             "name": "Sumit Ahuja",
