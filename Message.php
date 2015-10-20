@@ -219,7 +219,7 @@ class Message extends BaseMessage
      * @since 1.5.0
      */
     private $_mergeLanguage = self::LANGUAGE_MAILCHIMP;
-
+    private $_contentType = "";
     /**
      * Mandrill does not let users set a charset.
      *
