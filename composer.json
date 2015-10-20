@@ -1,0 +1,23 @@
+{
+    "name": "diningalliance/mandrill-yii2",
+    "description": "Mandrill Api Integration for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension", "mandrill", "mailer", "email"],
+    "license": "GPL-3.0",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Sumit Ahuja",
+            "email": "sahuja@argusoft.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "mandrill/mandrill": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "diningalliance\\mandrill\\": ""
+        }
+    }
+}
